@@ -74,7 +74,7 @@ Once set as desired, the script can be run using:
 
 ### Citation
 ```
-@inproceedings{SAC18,
+@inproceedings{SAC19,
  author = {Sim{\'e}oni O. and Avrithis, Y. and Chum, O.},
  title = {Local Features and Visual Words Emerge in Activations},
  booktitle = {CVPR},
