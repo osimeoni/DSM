@@ -1,6 +1,6 @@
 # Deep Spatial Matching (DSM)
 
-This repository provides a MATLAB implementation of the the deep spatial matching (DSM) method introduced in our CVPR 2019 paper:
+This repository provides a MATLAB implementation of the the deep spatial matching (DSM) method introduced in our CVPR paper:
 
 **Local Features and Visual Words Emerge in Activations** 
 [Siméoni O.](http://people.rennes.inria.fr/Oriane.Simeoni/), [Avrithis Y.](https://avrithis.net/), [Chum O.](http://cmp.felk.cvut.cz/~chum/), 
@@ -75,7 +75,7 @@ Once set as desired, the script can be run using:
 ### Citation
 ```
 @inproceedings{SAC18,
- author = {Siméoni O. and Avrithis, Y. and Chum, O.},
+ author = {Sim{\'e}oni O. and Avrithis, Y. and Chum, O.},
  title = {Local Features and Visual Words Emerge in Activations},
  booktitle = {CVPR},
  year = {2019}
